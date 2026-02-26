@@ -1,2 +1,0 @@
-# Congratulation
-My first repo
